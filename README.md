@@ -2,5 +2,5 @@
 <p align="center">𝓐my ྐ or 𝓝ixie</p>
 <p align="center">𓎢𓎟𓎟𓎟𓎟𓎟𓋫𓎟𓎟𓎟𓎟𓎟𓎡</p> 
 <p align="center">20 ೀ she</p>
-<p align="center">╬═　9.24.25 † ‹ s 𝟹　∔ ᧓</p>
+<p align="center">╬═　9.24.25 † ‹ ｓ 𝟹　∔ ᧓</p>
 <p align="center">₍ᐢ..ᐢ⑅₎𓈒 c+h, w2i, dnc◞</p>
