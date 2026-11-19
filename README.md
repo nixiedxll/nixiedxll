@@ -10,5 +10,6 @@
 <p align="center">╬═　9.24.25　†　‹ｓ𝟹　∔ ᧓</p>
 <p align="center">₍ᐢ..ᐢ⑅₎𓈒 c+h, w2i, dnc◞</p>
 
-<img width="400" height="72" alt="image" src="https://github.com/user-attachments/assets/8b31d69f-fa2c-4cbd-ab6f-fb173a49e959" alt="Centered Image" class="center">
-
+<p align="center">
+  <img width="400" height="72" alt="image" src="https://github.com/user-attachments/assets/809a6388-c1d1-4597-bad3-bd0436c0740c" />
+</p>
