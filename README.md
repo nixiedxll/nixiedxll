@@ -1,4 +1,6 @@
-<img width="400" height="72" alt="image" src="https://github.com/user-attachments/assets/6cdc5e2a-8d06-404e-91ba-b56dddc967da" alt="Centered Image" class="center">
+<p align="center">
+  <img width="400" height="72" alt="image" src="https://github.com/user-attachments/assets/ab288d35-2f07-4d2b-9545-d47484e56953" />
+</p>
 
 <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/25c3779d-0d91-4f0a-aa6b-930b7ddecbf2" alt="Centered Image" class="center">
 
