@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="72" alt="image" src="https://github.com/user-attachments/assets/ab288d35-2f07-4d2b-9545-d47484e56953" />
+  <img width="500" height="84" alt="image" src="https://github.com/user-attachments/assets/ab288d35-2f07-4d2b-9545-d47484e56953" />
 </p>
 
 <p align="center">
@@ -13,5 +13,9 @@
 <p align="center">₍ᐢ..ᐢ⑅₎𓈒 c+h, w2i, dnc◞</p>
 
 <p align="center">
-  <img width="500" height="72" alt="image" src="https://github.com/user-attachments/assets/809a6388-c1d1-4597-bad3-bd0436c0740c" />
+  <img width="450" height="95" alt="image" src="https://github.com/user-attachments/assets/a4b4ad90-8b46-46b3-89e2-f9ee63320afa" />
+</p>
+
+<p align="center">
+  <img width="500" height="84" alt="image" src="https://github.com/user-attachments/assets/809a6388-c1d1-4597-bad3-bd0436c0740c" />
 </p>
