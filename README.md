@@ -7,7 +7,7 @@
 </p> 
 
 
-<p align="center">◡ ◡　﹕　　!!　@ 𝖆my ,, 𝖓ixie　.</p> 
+<p align="center">$\color{#545FB9}{\textsf{◡ ◡　﹕　　!!　@ 𝖆my ,, 𝖓ixie　}}$.</p> 
 
 <p align="center">
   <img width="593" height="40" alt="tumblr_31cf107f87664a2007bf32f8ae6f6790_f9f16a6e_640" src="https://github.com/user-attachments/assets/4a465632-d29e-4d94-84c3-c3664f2cd859" />
