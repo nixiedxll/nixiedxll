@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">$\color{#8793FF}{\textsf{　(｡•̀ᴗ-)　　┈　　　she ,, any ︵ 20　✧}}$ </p>
-<p align="center">$\color{#FF9CDF}{\textsf{—͟͟͞͞★ c+h, w2i, dnc◞}}$</p>
+<p align="center">$\color{#A7CCFF}{\textsf{—͟͟͞͞★ c+h, w2i, dnc◞}}$</p>
 
 <p align="center">
   <img width="450" height="95" alt="image" src="https://github.com/user-attachments/assets/a4b4ad90-8b46-46b3-89e2-f9ee63320afa" />
