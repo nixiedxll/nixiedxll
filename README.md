@@ -12,7 +12,7 @@
   <img width="593" height="40" alt="tumblr_31cf107f87664a2007bf32f8ae6f6790_f9f16a6e_640" src="https://github.com/user-attachments/assets/4a465632-d29e-4d94-84c3-c3664f2cd859" />
 </p>
 
-<p align="center">$\color{#84A3FF}{\textsf{　(｡•̀ᴗ-)　　┈　　　she ,, any ︵ 20　✧}}$ </p>
+<p align="center">$\color{#8781FF}{\textsf{　(｡•̀ᴗ-)　　┈　　　she ,, any ︵ 20　✧}}$ </p>
 <p align="center">$\color{#FF9CDF}{\textsf{—͟͟͞͞★ c+h, w2i, dnc◞}}$</p>
 
 <p align="center">
