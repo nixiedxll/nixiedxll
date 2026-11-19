@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1cdc7c54-a4d1-45ec-ac72-ed7d7ee2ed92" />
-</p>
+</p> 
 
 
 <p align="center">◡ ◡　﹕　　!!　@ 𝖆my ,, 𝖓ixie　.</p> 
